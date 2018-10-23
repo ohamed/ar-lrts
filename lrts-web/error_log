@@ -1,0 +1,120 @@
+[01-Mar-2018 15:54:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/ab12960/public_html/research/web/Data.php on line 12
+[01-Mar-2018 17:37:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/ab12960/public_html/research/Data.php on line 32
+[01-Mar-2018 17:38:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:39:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:40:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:41:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:41:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:42:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[01-Mar-2018 17:44:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ab12960/public_html/research/Data.php:32) in /home1/ab12960/public_html/research/Data.php on line 45
+[04-Mar-2018 15:31:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/ab12960/public_html/research/save_classification.php on line 8
+[04-Mar-2018 15:31:09 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/ab12960/public_html/research/save_classification.php on line 18
+[04-Mar-2018 15:31:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/ab12960/public_html/research/save_classification.php on line 8
+[04-Mar-2018 15:31:16 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/ab12960/public_html/research/save_classification.php on line 18
+[04-Mar-2018 15:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/ab12960/public_html/research/save_classification.php on line 27
+[04-Mar-2018 15:35:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/ab12960/public_html/research/save_classification.php on line 10
+[07-Mar-2018 18:51:31 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home1/ab12960/public_html/research/Data.php on line 148
+[07-Mar-2018 18:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home1/ab12960/public_html/research/Data.php on line 148
+[07-Mar-2018 18:52:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/ab12960/public_html/research/Data.php on line 148
+[07-Mar-2018 18:55:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 18:55:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 18:56:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:05:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:05:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:05:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:11:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:12:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[07-Mar-2018 19:16:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$User' (T_VARIABLE) in /home1/ab12960/public_html/research/Data.php on line 135
+[07-Mar-2018 19:16:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$User' (T_VARIABLE) in /home1/ab12960/public_html/research/Data.php on line 135
+[07-Mar-2018 19:19:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/ab12960/public_html/research/Data.php on line 263
+[08-Mar-2018 15:51:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[08-Mar-2018 15:52:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[09-Mar-2018 15:47:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[09-Mar-2018 15:47:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 04:16:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[10-Mar-2018 15:48:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[11-Mar-2018 01:32:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[11-Mar-2018 01:37:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[11-Mar-2018 01:37:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[11-Mar-2018 01:37:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 138
+[11-Mar-2018 01:40:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 01:41:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 03:03:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 07:59:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 08:02:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 08:05:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 08:13:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 08:18:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:46:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:47:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:47:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:47:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[11-Mar-2018 15:47:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[12-Mar-2018 02:34:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 139
+[12-Mar-2018 06:07:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 148
+[12-Mar-2018 15:54:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 144
+[13-Mar-2018 10:46:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 144
+[13-Mar-2018 15:54:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 144
+[14-Mar-2018 15:46:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[15-Mar-2018 15:47:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[16-Mar-2018 15:49:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[17-Mar-2018 14:20:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[17-Mar-2018 15:50:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[18-Mar-2018 01:37:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[18-Mar-2018 15:47:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[18-Mar-2018 16:13:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[19-Mar-2018 08:31:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[19-Mar-2018 08:31:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[19-Mar-2018 08:57:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[19-Mar-2018 15:51:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
+[20-Mar-2018 15:49:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ab12960/public_html/research/Data.php on line 145
